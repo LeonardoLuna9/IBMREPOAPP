@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd4320de.css",
-    "main.js": "/static/js/main.e033be4d.js",
-    "static/js/787.51a3f71a.chunk.js": "/static/js/787.51a3f71a.chunk.js",
-    "index.html": "/index.html",
-    "main.dd4320de.css.map": "/static/css/main.dd4320de.css.map",
-    "main.e033be4d.js.map": "/static/js/main.e033be4d.js.map",
-    "787.51a3f71a.chunk.js.map": "/static/js/787.51a3f71a.chunk.js.map"
+    "main.css": "/LeonardoLuna9.github.io/static/css/main.dd4320de.css",
+    "main.js": "/LeonardoLuna9.github.io/static/js/main.2337512a.js",
+    "static/js/787.51a3f71a.chunk.js": "/LeonardoLuna9.github.io/static/js/787.51a3f71a.chunk.js",
+    "index.html": "/LeonardoLuna9.github.io/index.html",
+    "main.dd4320de.css.map": "/LeonardoLuna9.github.io/static/css/main.dd4320de.css.map",
+    "main.2337512a.js.map": "/LeonardoLuna9.github.io/static/js/main.2337512a.js.map",
+    "787.51a3f71a.chunk.js.map": "/LeonardoLuna9.github.io/static/js/787.51a3f71a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd4320de.css",
-    "static/js/main.e033be4d.js"
+    "static/js/main.2337512a.js"
   ]
 }
