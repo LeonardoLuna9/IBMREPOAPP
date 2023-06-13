@@ -8,7 +8,7 @@ const LogOut = () => {
         axios({
           method: "POST",
           withCredentials: true,
-          url: "http://104.248.232.61/logout",
+          url: "https://edgarc.me/logout",
         }).then((res) => {
           //setData(res.data);
           console.log(res.data);

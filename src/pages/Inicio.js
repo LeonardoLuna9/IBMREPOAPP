@@ -13,7 +13,7 @@ const Inicio = () => {
     axios({
       method: 'GET',
       withCredentials: true,
-      url: 'http://104.248.232.61/getcerdata',
+      url: 'https://edgarc.me/getcerdata',
     })
       .then((res) => {
         setData(res.data);

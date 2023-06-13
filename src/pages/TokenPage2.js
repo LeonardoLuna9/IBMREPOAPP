@@ -4,7 +4,7 @@ import Token from '../components/Token/Token';
 const TokenPage2 = () => {
   return (
     <div className='token-container'>
-          <Token urlEnd='http://104.248.232.61/verify'/>
+          <Token urlEnd='https://edgarc.me/verify'/>
       <div className="rectangulo"></div>
     </div>
   );
