@@ -11,7 +11,7 @@ const BookmarkPage = () => {
     axios({
       method: "GET",
       withCredentials: true,
-      url: "http://localhost:5000/get-bookmarks",
+      url: "http://104.248.232.61/get-bookmarks",
     }).then((res) => {
       setBookmarks(res.data);
     });
@@ -30,7 +30,7 @@ const BookmarkPage = () => {
           <div className='right-right-upper'>
             <div></div>
           </div>
-          <TableComponent urlCert="http://localhost:5000/get-bookmarks" bookmarks={bookmarks} />
+          <TableComponent urlCert="http://104.248.232.61/get-bookmarks" bookmarks={bookmarks} />
         </div>
       </div>
     </div>

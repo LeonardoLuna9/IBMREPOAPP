@@ -10,7 +10,7 @@ const QR = () => {
     axios({
       method: "POST",
       withCredentials: true,
-      url: "http://localhost:5000/tfsetup",
+      url: "http://104.248.232.61/tfsetup",
     }).then((res) => {
       setData(res.data);
       console.log(res.data);

@@ -17,7 +17,7 @@ const Empleado = ({ id }) => {
         employee: uid,
       },
       withCredentials: true,
-      url: "http://localhost:5000/certifications",
+      url: "http://104.248.232.61/certifications",
     }).then((res) => {
       setData(res.data);
       setEmployee([res.data[0]["id"], res.data[0]["work_location"], res.data[0]["org"]]);

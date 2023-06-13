@@ -7,7 +7,7 @@ const RegistrarUsuario = () => {
     <h5 className="title">User Registration</h5>
       <div className="rectangulo-user"></div>
       <div className="form">
-        <form action='http://localhost:5000/register' method='POST'>
+        <form action='http://104.248.232.61/register' method='POST'>
           <label htmlFor="id"></label>
           <input type="text" name="username" id="id" className="id2" placeholder="  ID"/><br></br>
           <label htmlFor="password"></label>
