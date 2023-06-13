@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IBMREPOAPP/static/css/main.dd4320de.css",
-    "main.js": "/IBMREPOAPP/static/js/main.cb286b30.js",
-    "static/js/787.51a3f71a.chunk.js": "/IBMREPOAPP/static/js/787.51a3f71a.chunk.js",
-    "index.html": "/IBMREPOAPP/index.html",
-    "main.dd4320de.css.map": "/IBMREPOAPP/static/css/main.dd4320de.css.map",
-    "main.cb286b30.js.map": "/IBMREPOAPP/static/js/main.cb286b30.js.map",
-    "787.51a3f71a.chunk.js.map": "/IBMREPOAPP/static/js/787.51a3f71a.chunk.js.map"
+    "main.css": "/LeonardoLuna9.github.io/static/css/main.dd4320de.css",
+    "main.js": "/LeonardoLuna9.github.io/static/js/main.2337512a.js",
+    "static/js/787.51a3f71a.chunk.js": "/LeonardoLuna9.github.io/static/js/787.51a3f71a.chunk.js",
+    "index.html": "/LeonardoLuna9.github.io/index.html",
+    "main.dd4320de.css.map": "/LeonardoLuna9.github.io/static/css/main.dd4320de.css.map",
+    "main.2337512a.js.map": "/LeonardoLuna9.github.io/static/js/main.2337512a.js.map",
+    "787.51a3f71a.chunk.js.map": "/LeonardoLuna9.github.io/static/js/787.51a3f71a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd4320de.css",
-    "static/js/main.cb286b30.js"
+    "static/js/main.2337512a.js"
   ]
 }
