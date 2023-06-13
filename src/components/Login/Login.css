@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+.Login {
+    width: 55.625vw;
+    height: 6px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 3.5vw;
+    font-size: 50px;
+    line-height: 3.5vw;
+    margin-top: 2.5vw;
+    color: #FFFFFF;
+}
+
+.credentials {
+    box-sizing: border-box;
+    display: flex;
+    gap: 1vw;
+    width: 24vw;
+    height: 6.7vh;
+    background: #393939;
+    border: 2px solid #FFFFFF;
+    margin-top: 8vw;
+}
+
+.passwordL {
+    box-sizing: border-box;
+    display: flex;
+    gap: 1vw;
+    width: 24vw;
+    height: 6.7vh;
+    background: #393939;
+    border: 2px solid #FFFFFF;
+    margin-top: 2vw;
+    left: 10vw;
+}
+
+.buttonL{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.13vw;
+    width: 5vw;
+    height: 6.7vh;
+    color: white;
+    padding-top: 1.4vw;
+    padding-left: 1.2vw;
+    background: #0F62FE;
+    border: #0F62FE;
+    margin-top: 3vw;
+    margin-left: 19vw;
+    border-radius: 5%;
+}
+
+input::placeholder {
+    color: lightgray;
+  }
+
+input {
+    background: #393939;
+    color: #FFFFFF;
+}

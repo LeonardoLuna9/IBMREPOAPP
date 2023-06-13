@@ -1,0 +1,61 @@
+.bee{
+    color: #0F62FE;
+    margin-left: 2.5vw;
+    margin-top: 40px;
+}
+
+.home{
+    color: #8D8D8D;
+    margin-left: 2.5vw;
+    margin-top: 60px;
+}
+
+.linea {
+    background-color: #ffff;
+    width: 5.5vw;
+    height: 0.3vh;
+    margin-top: 1vw;
+    margin-left: 1.8vw;
+    position: absolute;
+}
+
+.policy {
+    color: #8D8D8D;
+    margin-left: 2.5vw;
+    margin-top: 60px;
+}
+
+.profile {
+    color: #8D8D8D;
+    margin-left: 2.5vw;
+    margin-top: 70px;
+}
+
+.table1 {
+    color: #8D8D8D;
+    margin-left: 2.5vw;
+    margin-top: 60px;
+}
+
+.logout {
+    color: #8D8D8D;
+    margin-left: 3vw;
+    margin-top: 150px;
+}
+
+.container-sidebar {
+    z-index: 99;
+    width: 9vw;
+    max-width: 9vw;
+    background-color: #262626;
+    border-right: 2px solid #8D8D8D;
+    height: 100vh;
+}
+
+.active .bee,
+.active .home,
+.active .policy,
+.active .table1,
+.active .logout {
+  color: #FFFF; /* Aquí puedes establecer el color deseado para el ícono activo */
+}

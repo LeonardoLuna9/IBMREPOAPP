@@ -1,0 +1,33 @@
+.inicio-container{
+    display: flex;
+    background-color: #262626;
+}
+
+.right-side-inicio{
+    width: 80vw;
+    max-width: 80vw;
+}
+
+.right-side-inicio-top{
+    display: flex;
+    gap: 6.5vw;
+    margin-left: 2.5vw;
+}
+
+.right-side-inicio-bot{
+    display: flex;
+}
+
+.titulo-inicio{
+    width: 55.625vw;
+    height: 6px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 3.5vw;
+    font-size: 40px;
+    line-height: 3.5vw;
+    margin-top: 2vw;
+    color: #FFFFFF;
+    margin-left: 2vw;
+    margin-bottom: 4vw;
+}

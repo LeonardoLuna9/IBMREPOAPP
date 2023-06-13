@@ -1,0 +1,14 @@
+.certificados-container{
+    display: flex;
+    background-color: #393939;
+    overflow: hidden;
+}
+
+.right-sidecert{
+    display: flex;
+}
+
+.cert-title{
+    color: white;
+    padding-left: 20px;
+}

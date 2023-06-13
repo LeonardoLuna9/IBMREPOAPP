@@ -1,0 +1,11 @@
+.empleadoPage-container{
+    margin: 0;
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.left-empleadoPage{
+    background-color:  #262626;
+    
+}
