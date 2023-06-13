@@ -2,7 +2,7 @@
   "name": "proyecto-integrador",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LeonardoLuna9.github.io/IBMREPOAPP",
+  "homepage": "https://DRV-II.github.io/Silizium",
   "dependencies": {
     "@canvasjs/react-charts": "^1.0.0",
     "@carbon/ibmdotcom-styles": "^1.46.0",
@@ -20,7 +20,6 @@
     "carbon-components-react": "^8.28.0",
     "carbon-web-components": "^1.21.0",
     "chart.js": "^4.3.0",
-    "dotenv": "^16.1.4",
     "faker": "^6.6.6",
     "qrcode.react": "^3.1.0",
     "react": "^18.2.0",
@@ -59,5 +58,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
