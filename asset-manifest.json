@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IBMREPOAPP/static/css/main.dd4320de.css",
+    "main.js": "/IBMREPOAPP/static/js/main.cb286b30.js",
+    "static/js/787.51a3f71a.chunk.js": "/IBMREPOAPP/static/js/787.51a3f71a.chunk.js",
+    "index.html": "/IBMREPOAPP/index.html",
+    "main.dd4320de.css.map": "/IBMREPOAPP/static/css/main.dd4320de.css.map",
+    "main.cb286b30.js.map": "/IBMREPOAPP/static/js/main.cb286b30.js.map",
+    "787.51a3f71a.chunk.js.map": "/IBMREPOAPP/static/js/787.51a3f71a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4320de.css",
+    "static/js/main.cb286b30.js"
+  ]
+}
